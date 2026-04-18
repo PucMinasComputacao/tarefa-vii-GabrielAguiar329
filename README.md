@@ -5,13 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Gabriel Sousa Aguiar
+- Matricula:916332
 
 ## Print do console do navegador
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
+![console](images/Screenshot%202026-04-18%20141756.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
